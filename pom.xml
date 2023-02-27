@@ -17,7 +17,6 @@
   </properties>
   
 <distributionManagement>
-  <distributionManagement>
   <repository>
     <id>releases</id>
     <!-- CHANGE HERE by your team nexus server -->
